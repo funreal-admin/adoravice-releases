@@ -1,0 +1,2 @@
+# adoravice-releases
+adoraviceリリース用
